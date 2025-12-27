@@ -9,7 +9,7 @@
 #define NUM_LEDS      200
 #define LED_TYPE   WS2811
 #define COLOR_ORDER   GRB
-#define DATA_PIN        2
+#define DATA_PIN        4
 //#define CLK_PIN       4
 #define VOLTS          5
 #define MAX_MA       8000
